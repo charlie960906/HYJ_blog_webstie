@@ -1,0 +1,14 @@
+# robots.txt for https://hyjblog.hyjdevelop.com/
+
+# 允許所有爬蟲訪問
+User-agent: *
+
+
+# 禁止爬取管理頁面
+Disallow: /admin
+
+# 禁止爬取靜態資源（可選）
+Disallow: /posts/
+
+# 指定網站地圖（如果有）
+Sitemap: https://hyjblog.hyjdevelop.com/sitemap.xml

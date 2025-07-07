@@ -1,8 +1,8 @@
-import{j as e,L as l}from"./index-CpZFmFza.js";import{A as i}from"./arrow-left-CfHMz29c.js";const r={about:{title:"關於我",content:`
+import{j as e,L as l}from"./index-BhL6l6JE.js";import{A as i}from"./arrow-left-2Z4RAW4F.js";const r={about:{title:"關於我",content:`
         <div class="space-y-6">
           <div class="text-center">
             <img src="images/my.jpg" alt="HYJ's Image" class="w-32 h-32 rounded-full mx-auto mb-6 object-cover">
-            <h2 class="text-2xl font-bold text-white mb-4">Hello, I'm HYJ</h2>
+            <h2 class="text-2xl font-bold text-white mb-4">嗨嗨嗨！ 我是老黃</h2>
           </div>
         </div>
         
