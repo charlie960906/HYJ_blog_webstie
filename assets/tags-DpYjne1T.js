@@ -1,1 +1,0 @@
-import{d as r}from"./index-CAM6mz7D.js";const i=async()=>{const c=await r(),o={};c.forEach(s=>{s.tags.forEach(t=>{o[t]=(o[t]||0)+1})});const n=Object.values(o),e=Math.max(...n),a=Math.min(...n);return Object.entries(o).map(([s,t])=>({name:s,count:t,size:1.2+(t-a)/(e-a)*1})).sort((s,t)=>t.count-s.count)};export{i as g};
