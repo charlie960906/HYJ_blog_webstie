@@ -1,4 +1,4 @@
-import{j as e,L as l}from"./index-BD5U3Q8J.js";import{A as a}from"./arrow-left-oOk8Bc55.js";const i={about:{title:"關於我",content:`
+import{j as e,L as l}from"./index-CAM6mz7D.js";import{A as a}from"./arrow-left-B_kUzNC5.js";const i={about:{title:"關於我",content:`
         <div class="space-y-6">
           <div class="text-center">
             <img src="images/my.jpg" alt="HYJ's Image" class="w-24 h-24 sm:w-32 sm:h-32 rounded-full mx-auto mb-4 sm:mb-6 object-cover about-image">
@@ -108,8 +108,9 @@ import{j as e,L as l}from"./index-BD5U3Q8J.js";import{A as a}from"./arrow-left-o
             ></iframe>
           </div>
           <div class="mt-3 sm:mt-4 p-3 bg-blue-500/10 border border-blue-400/30 rounded-lg">
-            <p class="text-blue-200 text-xs sm:text-sm">最後感謝看完整個網頁的各位~~~</p>
+            <p class="text-blue-200 text-xs sm:text-sm">最後在這邊獻上小小的感謝</p>
+            <p class="text-blue-200 text-xs sm:text-sm">感謝看到最後的各位！</p>
           </div>
         </div>
       </div>
-    `}},r=t=>i[t],n=({pageKey:t})=>{const s=r(t);return s?e.jsx("div",{className:"min-h-screen pt-20 sm:pt-24 lg:pt-28 px-4 static-page-container",children:e.jsxs("div",{className:"container mx-auto max-w-4xl",children:[e.jsxs(l,{to:"/",className:"inline-flex items-center text-white/80 hover:text-white transition-colors mb-8 sm:mb-10 text-sm sm:text-base",children:[e.jsx(a,{className:"w-4 h-4 mr-2"}),"返回首頁"]}),e.jsxs("div",{className:"glassmorphism-card p-4 sm:p-6 lg:p-8 static-page-content",children:[e.jsx("h1",{className:"text-2xl sm:text-3xl lg:text-4xl font-bold text-white mb-6 sm:mb-8",children:s.title}),e.jsx("div",{className:"prose prose-invert prose-sm sm:prose-base lg:prose-lg max-w-none",dangerouslySetInnerHTML:{__html:s.content}})]})]})}):e.jsx("div",{className:"min-h-screen flex items-center justify-center pt-20",children:e.jsxs("div",{className:"glassmorphism-card p-8 text-center",children:[e.jsx("h1",{className:"text-2xl font-bold text-white mb-4",children:"頁面未找到"}),e.jsxs(l,{to:"/",className:"inline-flex items-center px-4 py-2 bg-blue-500 text-white rounded-full hover:bg-blue-600 transition-colors",children:[e.jsx(a,{className:"w-4 h-4 mr-2"}),"返回首頁"]})]})})};export{n as default};
+    `}},r=t=>i[t],x=({pageKey:t})=>{const s=r(t);return s?e.jsx("div",{className:"min-h-screen pt-20 sm:pt-24 lg:pt-28 px-4 static-page-container",children:e.jsxs("div",{className:"container mx-auto max-w-4xl",children:[e.jsxs(l,{to:"/",className:"inline-flex items-center text-white/80 hover:text-white transition-colors mb-8 sm:mb-10 text-sm sm:text-base",children:[e.jsx(a,{className:"w-4 h-4 mr-2"}),"返回首頁"]}),e.jsxs("div",{className:"glassmorphism-card p-4 sm:p-6 lg:p-8 static-page-content",children:[e.jsx("h1",{className:"text-2xl sm:text-3xl lg:text-4xl font-bold text-white mb-6 sm:mb-8",children:s.title}),e.jsx("div",{className:"prose prose-invert prose-sm sm:prose-base lg:prose-lg max-w-none",dangerouslySetInnerHTML:{__html:s.content}})]})]})}):e.jsx("div",{className:"min-h-screen flex items-center justify-center pt-20",children:e.jsxs("div",{className:"glassmorphism-card p-8 text-center",children:[e.jsx("h1",{className:"text-2xl font-bold text-white mb-4",children:"頁面未找到"}),e.jsxs(l,{to:"/",className:"inline-flex items-center px-4 py-2 bg-blue-500 text-white rounded-full hover:bg-blue-600 transition-colors",children:[e.jsx(a,{className:"w-4 h-4 mr-2"}),"返回首頁"]})]})})};export{x as default};

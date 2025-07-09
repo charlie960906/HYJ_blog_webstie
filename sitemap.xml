@@ -56,49 +56,85 @@
 </url>
 
 <url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E1</loc>
+  <loc>https://hyjblog.hyjdevelop.com/post/arrary_c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 
 <url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E2</loc>
+  <loc>https://hyjblog.hyjdevelop.com/post/class_c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 
 <url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E3</loc>
+  <loc>https://hyjblog.hyjdevelop.com/post/function&variables_c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 
 <url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E4</loc>
+  <loc>https://hyjblog.hyjdevelop.com/post/Introduction__c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 
 <url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E5</loc>
+  <loc>https://hyjblog.hyjdevelop.com/post/linked_list_c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 
 <url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E6</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url>
-
-<url>
-  <loc>https://hyjblog.hyjdevelop.com/post/E7</loc>
+  <loc>https://hyjblog.hyjdevelop.com/post/Operators_c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
 
 <url>
   <loc>https://hyjblog.hyjdevelop.com/post/PE_zj_a225</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/pointer_c++</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/sorting_c++</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/stack&quere_c++</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/Statements_c++</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/stl&vector_c++</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/string_c++</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+
+<url>
+  <loc>https://hyjblog.hyjdevelop.com/post/struct_c++</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
